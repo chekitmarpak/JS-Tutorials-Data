@@ -16,5 +16,5 @@ let empty;
 
 //object
 console.log(typeof "Chekit");
-
 console.log(name)
+console.log(typeof null); // the type of null in jS is object
