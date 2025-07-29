@@ -8,3 +8,9 @@ console.log(score + " " + newVar);
 console.log(typeof newVar);
 // 30 -> number
 // 
+console.log(1 + "2")
+console.log(1 + 2)
+console.log("1" + 2 + 2)
+console.log(1 + 2 + 2);
+console.log(1 + "2" + 2);
+console.log(1 + 2 + "2")
